@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/niceguyn8/bamazon/issues"
   },
-  "homepage": "https://github.com/niceguyn8/bamazon#readme"
+  "homepage": "https://github.com/niceguyn8/bamazon#readme",
+  "dependencies": {
+    "sequelize": "^4.37.6"
+  }
 }
